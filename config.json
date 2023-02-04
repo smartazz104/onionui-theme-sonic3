@@ -1,0 +1,54 @@
+{
+	"name":"Sonic 3",
+	"author":"smartazz104",
+	"description":"Sonic 3 inspired theme",
+	"hideLabels":
+	{
+        "icons": true,
+        "hints": true
+    },
+	"batteryPercentage":
+	{
+		"visible":false
+	},
+	"title":
+	{
+		"font":"NiseSegaSonic.ttf",
+		"size":30,
+		"color":"#FFFFFF"
+	},
+	"path":
+	{
+		"font":"LiberationSans-Italic.ttf",
+		"size":24,
+		"color":"#FFFFFF"
+	},
+	"hint":
+	{
+		"font":"/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
+		"size":20,
+		"color":"#FFFFFF"
+	},
+	"currentpage":
+	{
+		"color":"#FFFFFF"
+	},
+	"total":
+	{
+		"color":"#FFFFFF"
+	},
+	"grid":
+	{
+		"font":"/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
+		"grid1x4":20,
+		"grid3x4":20,
+		"color":"#ffffff",
+		"selectedcolor":"#ffffff"
+	},
+	"list":
+	{
+		"font":"NiseSegaSonic.ttf",
+		"size":20,
+		"color":"#FFFFFF"
+	}
+}
